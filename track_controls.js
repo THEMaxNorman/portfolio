@@ -1,7 +1,7 @@
 //Max Norman
 function rexport(){
-    var datta = maxport({{element.1}}); 
-    alert(datta)
+    //var datta = maxport({{element.1}}); 
+    //alert(datta)
 }
 function maxport(static, all_colors){
     var end_val = ""
