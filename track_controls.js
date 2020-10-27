@@ -1,11 +1,11 @@
 //Max Norman
 function rexport(){
-    var datta = maxport("clock | logo"); 
+    var datta = maxport({{element.1}}); 
     alert(datta)
 }
 function maxport(static, all_colors){
     var end_val = ""
-    var all_colors = [hCP.value];
+   	
     end_val += getAllLabels(labels, all_colors );
     //static.replace(" , ", "|")
     end_val += static
